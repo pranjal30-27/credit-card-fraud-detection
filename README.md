@@ -76,3 +76,5 @@ or view the static PDF at reports/fraud_dashboard.pdf
 
 ## Author
 Pranjal | May 2026
+[LinkedIn](www.linkedin.com/in/pranjal-khaire-12447b273) | 
+[GitHub](https://github.com/pranjal30-27)
