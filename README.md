@@ -60,7 +60,7 @@ fraud_detection/
 ## How to Run
 ```bash
 # Clone the repo
-git clone https://github.com/yourname/fraud-detection
+git clone https://github.com/pranjal30-27/fraud-detection
 
 # Install dependencies
 pip install -r requirements.txt
